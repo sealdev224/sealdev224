@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hallo 👋
 
 My name is jacob and since I was 10 years old I been coding stuff
 
