@@ -2,7 +2,8 @@
 
 My name is jacob and since I was 10 years old I been coding stuff
 
-I'm now currently 16 years old
+I'm now currently 16 years old, I code in python, (HTML / CSS / JS), and Rust!
+In the past I have used lua as well for small game projects in Love2D and I've also dabbled around with C anc C++ while making small game projects in Raylib I stopped using C/C++ because its uhm well not my favorite language but yeah that's me
 
 <!--
 **Kyo224/Kyo224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
